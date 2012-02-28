@@ -1,0 +1,9 @@
+[alias]
+	co = checkout
+	st = status
+	d = diff
+	ds = diff --staged
+	com = commit
+	pl = pull
+	p = push
+	b = branch
