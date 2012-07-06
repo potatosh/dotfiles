@@ -7,3 +7,9 @@
 	pl = pull
 	p = push
 	b = branch
+	ld = log --decorate
+	lx = log --graph --branches --decorate
+	conf = config
+	ad = add
+[color]
+	ui = true
